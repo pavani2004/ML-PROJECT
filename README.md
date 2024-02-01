@@ -17,5 +17,3 @@ isFraud: fraud transaction
 Python Libraries
 pandas, numpy, seaborn, matplotlib, tabulate, sklearn
 
-Random Forest and Naive Bayes were used to identify online payment fraud due to the large dataset.
-
